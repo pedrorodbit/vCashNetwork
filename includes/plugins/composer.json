@@ -1,0 +1,14 @@
+{
+    "require": {
+      "php": ">=7.0.0",
+
+      "ext-intl": "*",
+      "ext-gmp": "*",
+      "ext-bcmath": "*",
+      "ext-gd": "*",
+      "ext-dom": "*",
+      "ext-curl": "*",
+
+      "smarty/smarty": "~3.1"
+    }
+}
